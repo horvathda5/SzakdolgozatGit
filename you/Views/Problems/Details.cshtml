@@ -1,0 +1,35 @@
+﻿@model you.Models.Problem
+
+@{
+    ViewBag.Title = "Részletek";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Adatok</h2>
+
+<div>
+    <h4>Probléma</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ProblemID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProblemID)
+        </dd>
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Problem1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Problem1)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Vissza", "Index")
+</p>

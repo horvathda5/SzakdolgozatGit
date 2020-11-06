@@ -1,0 +1,37 @@
+﻿@model IEnumerable<you.Models.Supplier>
+
+@{
+    ViewBag.Title = "Beszállítók";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Beszállítók</h2>
+
+@using (Html.BeginForm("Index", "Suppliers", FormMethod.Get))
+{
+    <input type="text" name="search" placeholder="Név">
+    <input type="submit" name="submit" value="Keresés">
+}
+<br>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Supplier1)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Supplier1)
+            </td>
+            <td>
+                @Html.ActionLink("Részletek", "Details", new { id = item.SupplierID })
+            </td>
+        </tr>
+    }
+
+</table>

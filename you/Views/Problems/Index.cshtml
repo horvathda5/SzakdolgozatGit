@@ -1,0 +1,37 @@
+﻿@model IEnumerable<you.Models.Problem>
+
+@{
+    ViewBag.Title = "Problémák";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Problémák</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProblemID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Username)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProblemID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Username)
+        </td>
+        <td>
+            @Html.ActionLink("Részletek", "Details", new { id = item.ProblemID }) |
+            @Html.ActionLink("Törlés", "Delete", new { id = item.ProblemID })
+        </td>
+    </tr>
+}
+
+</table>

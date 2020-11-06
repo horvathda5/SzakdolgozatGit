@@ -1,0 +1,320 @@
+C:\Users\Horváth\source\repos\you\you\bin\you.dll.config
+C:\Users\Horváth\source\repos\you\you\bin\you.dll
+C:\Users\Horváth\source\repos\you\you\bin\you.pdb
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\csc.exe
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\csc.exe.config
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\csc.rsp
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\csi.exe
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\csi.exe.config
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\csi.rsp
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.AppContext.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.Console.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.IO.Compression.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.Security.Claims.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.ValueTuple.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\vbc.exe
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\vbc.exe.config
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\vbc.rsp
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\VBCSCompiler.exe
+C:\Users\Horváth\source\repos\you\you\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Horváth\source\repos\you\you\bin\Antlr3.Runtime.dll
+C:\Users\Horváth\source\repos\you\you\bin\EntityFramework.dll
+C:\Users\Horváth\source\repos\you\you\bin\EntityFramework.SqlServer.dll
+C:\Users\Horváth\source\repos\you\you\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Horváth\source\repos\you\you\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Horváth\source\repos\you\you\bin\Newtonsoft.Json.dll
+C:\Users\Horváth\source\repos\you\you\bin\System.Web.Helpers.dll
+C:\Users\Horváth\source\repos\you\you\bin\System.Web.Mvc.dll
+C:\Users\Horváth\source\repos\you\you\bin\System.Web.Optimization.dll
+C:\Users\Horváth\source\repos\you\you\bin\System.Web.Razor.dll
+C:\Users\Horváth\source\repos\you\you\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Horváth\source\repos\you\you\bin\System.Web.WebPages.dll
+C:\Users\Horváth\source\repos\you\you\bin\System.Web.WebPages.Razor.dll
+C:\Users\Horváth\source\repos\you\you\bin\WebGrease.dll
+C:\Users\Horváth\source\repos\you\you\bin\EntityFramework.xml
+C:\Users\Horváth\source\repos\you\you\bin\EntityFramework.SqlServer.xml
+C:\Users\Horváth\source\repos\you\you\bin\System.Web.Helpers.xml
+C:\Users\Horváth\source\repos\you\you\bin\System.Web.Mvc.xml
+C:\Users\Horváth\source\repos\you\you\bin\System.Web.Optimization.xml
+C:\Users\Horváth\source\repos\you\you\bin\System.Web.Razor.xml
+C:\Users\Horváth\source\repos\you\you\bin\System.Web.WebPages.xml
+C:\Users\Horváth\source\repos\you\you\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Horváth\source\repos\you\you\bin\System.Web.WebPages.Razor.xml
+C:\Users\Horváth\source\repos\you\you\bin\Newtonsoft.Json.xml
+C:\Users\Horváth\source\repos\you\you\bin\Antlr3.Runtime.pdb
+C:\Users\Horváth\source\repos\you\you\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Horváth\source\repos\you\you\obj\Debug\you.csproj.CoreCompileInputs.cache
+C:\Users\Horváth\source\repos\you\you\obj\Debug\you.csproj.CopyComplete
+C:\Users\Horváth\source\repos\you\you\obj\Debug\you.dll
+C:\Users\Horváth\source\repos\you\you\obj\Debug\you.pdb
+C:\Users\Horváth\source\repos\you\you\obj\Debug\you.csprojAssemblyReference.cache
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\you.dll.config
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\you.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\you.pdb
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\csc.exe
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\csc.exe.config
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\csc.rsp
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\csi.exe
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\csi.exe.config
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\csi.rsp
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.AppContext.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.Console.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.IO.Compression.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.Security.Claims.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.ValueTuple.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\vbc.exe
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\vbc.exe.config
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\vbc.rsp
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\VBCSCompiler.exe
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\Antlr3.Runtime.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\EntityFramework.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\EntityFramework.SqlServer.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\Newtonsoft.Json.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\System.Web.Helpers.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\System.Web.Mvc.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\System.Web.Optimization.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\System.Web.Razor.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\System.Web.WebPages.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\System.Web.WebPages.Razor.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\WebGrease.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\EntityFramework.xml
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\EntityFramework.SqlServer.xml
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\System.Web.Helpers.xml
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\System.Web.Mvc.xml
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\System.Web.Optimization.xml
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\System.Web.Razor.xml
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\System.Web.WebPages.xml
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\System.Web.WebPages.Razor.xml
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\Newtonsoft.Json.xml
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\Antlr3.Runtime.pdb
+C:\Users\Horváth\source\repos\Másolat\you\you\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Horváth\source\repos\Másolat\you\you\obj\Debug\you.csprojAssemblyReference.cache
+C:\Users\Horváth\source\repos\Másolat\you\you\obj\Debug\you.csproj.CoreCompileInputs.cache
+C:\Users\Horváth\source\repos\Másolat\you\you\obj\Debug\you.csproj.CopyComplete
+C:\Users\Horváth\source\repos\Másolat\you\you\obj\Debug\you.dll
+C:\Users\Horváth\source\repos\Másolat\you\you\obj\Debug\you.pdb
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\you.dll.config
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\you.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\you.pdb
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\csc.exe
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\csc.exe.config
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\csc.rsp
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\csi.exe
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\csi.exe.config
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\csi.rsp
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.AppContext.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.Console.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.IO.Compression.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.Security.Claims.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.ValueTuple.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\vbc.exe
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\vbc.exe.config
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\vbc.rsp
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\VBCSCompiler.exe
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\Antlr3.Runtime.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\EntityFramework.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\EntityFramework.SqlServer.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\Newtonsoft.Json.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\System.Web.Helpers.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\System.Web.Mvc.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\System.Web.Optimization.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\System.Web.Razor.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\System.Web.WebPages.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\System.Web.WebPages.Razor.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\WebGrease.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\EntityFramework.xml
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\EntityFramework.SqlServer.xml
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\System.Web.Helpers.xml
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\System.Web.Mvc.xml
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\System.Web.Optimization.xml
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\System.Web.Razor.xml
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\System.Web.WebPages.xml
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\System.Web.WebPages.Razor.xml
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\Newtonsoft.Json.xml
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\Antlr3.Runtime.pdb
+C:\Users\Horváth Dávid\source\repos\you-master\you\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Horváth Dávid\source\repos\you-master\you\obj\Debug\you.csprojAssemblyReference.cache
+C:\Users\Horváth Dávid\source\repos\you-master\you\obj\Debug\you.csproj.CoreCompileInputs.cache
+C:\Users\Horváth Dávid\source\repos\you-master\you\obj\Debug\you.csproj.CopyComplete
+C:\Users\Horváth Dávid\source\repos\you-master\you\obj\Debug\you.dll
+C:\Users\Horváth Dávid\source\repos\you-master\you\obj\Debug\you.pdb
+C:\Users\Horváth Dávid\source\repos\you\you\bin\you.dll.config
+C:\Users\Horváth Dávid\source\repos\you\you\bin\you.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\you.pdb
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\csc.exe
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\csc.exe.config
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\csc.rsp
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\csi.exe
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\csi.exe.config
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\csi.rsp
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.AppContext.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.Console.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.IO.Compression.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.Security.Claims.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.ValueTuple.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\vbc.exe
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\vbc.exe.config
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\vbc.rsp
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\VBCSCompiler.exe
+C:\Users\Horváth Dávid\source\repos\you\you\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Horváth Dávid\source\repos\you\you\bin\Antlr3.Runtime.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\EntityFramework.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\EntityFramework.SqlServer.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\Newtonsoft.Json.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\System.Web.Helpers.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\System.Web.Mvc.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\System.Web.Optimization.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\System.Web.Razor.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\System.Web.WebPages.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\System.Web.WebPages.Razor.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\WebGrease.dll
+C:\Users\Horváth Dávid\source\repos\you\you\bin\EntityFramework.xml
+C:\Users\Horváth Dávid\source\repos\you\you\bin\EntityFramework.SqlServer.xml
+C:\Users\Horváth Dávid\source\repos\you\you\bin\System.Web.Helpers.xml
+C:\Users\Horváth Dávid\source\repos\you\you\bin\System.Web.Mvc.xml
+C:\Users\Horváth Dávid\source\repos\you\you\bin\System.Web.Optimization.xml
+C:\Users\Horváth Dávid\source\repos\you\you\bin\System.Web.Razor.xml
+C:\Users\Horváth Dávid\source\repos\you\you\bin\System.Web.WebPages.xml
+C:\Users\Horváth Dávid\source\repos\you\you\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Horváth Dávid\source\repos\you\you\bin\System.Web.WebPages.Razor.xml
+C:\Users\Horváth Dávid\source\repos\you\you\bin\Newtonsoft.Json.xml
+C:\Users\Horváth Dávid\source\repos\you\you\bin\Antlr3.Runtime.pdb
+C:\Users\Horváth Dávid\source\repos\you\you\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Horváth Dávid\source\repos\you\you\obj\Debug\you.csprojAssemblyReference.cache
+C:\Users\Horváth Dávid\source\repos\you\you\obj\Debug\you.csproj.CoreCompileInputs.cache
+C:\Users\Horváth Dávid\source\repos\you\you\obj\Debug\you.csproj.CopyComplete
+C:\Users\Horváth Dávid\source\repos\you\you\obj\Debug\you.dll
+C:\Users\Horváth Dávid\source\repos\you\you\obj\Debug\you.pdb

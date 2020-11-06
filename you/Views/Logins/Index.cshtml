@@ -1,0 +1,53 @@
+﻿@model IEnumerable<you.Models.Login>
+
+@{
+    ViewBag.Title = "Jogosultság";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Jogosultságok</h2>
+
+<br>
+
+@using (Html.BeginForm("Index", "Logins", FormMethod.Get))
+{
+    <input type="text" name="search" placeholder="username">
+    <input type="submit" name="submit" value="Keresés">
+}
+
+    <br>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.RoleID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Username)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Password)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.RoleID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.ActionLink("Szerkesztés", "Edit", new { id = item.LoginID }) |
+                @Html.ActionLink("Részletek", "Details", new { id = item.LoginID }) |
+                @Html.ActionLink("Törlés", "Delete", new { id = item.LoginID })
+            </td>
+        </tr>
+    }
+
+</table>

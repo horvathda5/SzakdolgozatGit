@@ -1,0 +1,31 @@
+﻿@model you.Models.District
+
+@{
+    ViewBag.Title = "Törlés";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h3>Biztos vagy benne, hogy ki akarod törölni?</h3>
+<div>
+    <h4>Megye</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.DistrictName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DistrictName)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Törlés" class="btn btn-default" /> |
+            @Html.ActionLink("Vissza", "Index")
+        </div>
+    }
+</div>

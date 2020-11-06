@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6e72c7dc91a04f3fad35d6d3913264c2" Name="Diagram1">
+        <EntityTypeShape EntityType="MVCDemoModel.District" Width="1.5" PointX="4.125" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MVCDemoModel.Login" Width="1.5" PointX="2.25" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="MVCDemoModel.Permission" Width="1.5" PointX="4.125" PointY="3" IsExpanded="true" />
+        <EntityTypeShape EntityType="MVCDemoModel.Problem" Width="1.5" PointX="7.875" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MVCDemoModel.Product" Width="1.5" PointX="2.25" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="MVCDemoModel.Supplier" Width="1.5" PointX="6" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="MVCDemoModel.User" Width="1.5" PointX="6.125" PointY="0.5" IsExpanded="true" />
+        <AssociationConnector Association="MVCDemoModel.FK_User_District" ManuallyRouted="false" />
+        <AssociationConnector Association="MVCDemoModel.FK_Login_Login" ManuallyRouted="false" />
+        <AssociationConnector Association="MVCDemoModel.FK_Login_Supplier" ManuallyRouted="false" />
+        <AssociationConnector Association="MVCDemoModel.FK_User_Login" ManuallyRouted="false" />
+        <AssociationConnector Association="MVCDemoModel.FK_Permission_User" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="MVCDemoModel.Data" Width="1.5" PointX="0.5" PointY="0.5" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

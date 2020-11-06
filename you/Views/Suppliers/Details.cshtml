@@ -1,0 +1,42 @@
+﻿@model you.Models.Supplier
+
+@{
+    ViewBag.Title = "Részletek";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Adatok</h2>
+
+<div>
+    <h4>Beszállító</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Supplier1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Supplier1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Taxnumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Taxnumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HQ)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HQ)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Vissza", "Index")
+</p>
